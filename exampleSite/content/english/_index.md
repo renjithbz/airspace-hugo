@@ -26,7 +26,7 @@ about:
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
-  title: How Boonze Can Help Your Business?
+  title: HOW BOONZE CAN HELP YOUR BUSINESS?
   content: |-
     Boonze is a leading provider of digital marketing services and technologies to clients who demand accountability, efficiency and predictability from their marketing campaigns.
 
