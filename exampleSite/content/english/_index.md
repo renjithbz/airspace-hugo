@@ -87,11 +87,12 @@ funfacts:
       SQR reports has been incredibly helpful. Since we have had such great success
       with having your team manage disapproval, we wanted to expand upon that process
       and put a few more guidelines in place for managing them.
-  - name: Rose Rio
+  - name: Uzi Eliahou
     image: images/clients/avater-3.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: CEO-Leading PPC Ad Platform
+    content: |-
+      Congratulations for the great results!
+      Thank- you for your commitment and investment building up for this success.
+      We are all excited about the results, and even more so, impressed with all of you who contributed.
 
 ---
