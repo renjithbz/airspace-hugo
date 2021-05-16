@@ -72,13 +72,13 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
-  - name: ''
+  - name: Patel
     image: images/clients/avater-1.jpg
-    designation: CEO-Online YellowPage Company
-    content: 'Thank you for the tremendous work you’ve been doing preparing for the
-      relaunch of our affiliate program.  We are extremely excited and the effort
-      and dedication from all of you has been exemplary.  The landing pages and image
-      ads are exceptional!  Let’s make this baby purr and blow it out of the water.  '
+    designation: Co-Founder-Leading PPC Ad Platform
+    content: Very impressive!  Congratulations to all that contributed to this immense
+      feat.  May you be able to replicate this achievement each and every day from
+      now on.  And don't just stop there.... if you can get this far, you can get
+      further!
   - name: Amie Slott
     image: images/clients/avater-1.jpg
     designation: Accounts Manager-Leading US Publisher
