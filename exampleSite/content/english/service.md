@@ -67,9 +67,14 @@ service:
       of our Account Strategists will coordinate a business analysis and develop a
       customised, profit-enhancing SEM program to fit your specific requirements.
   - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: SMBs
+    content: For over 15 years we have been providing digital marketing services to
+      small and medium businesses. Boonze's expertise in search engine marketing,
+      social media ads, and marketplace optimizations are unparalleled in the industry.
+      Proven optimization techniques have enabled us to efficiently manage 10,000+
+      campaigns across diverse industries. No matter the size of your ad budget –
+      from $300 to thousands of dollars a month. All advertisers, small or big, get
+      the same great attention from our team.
   - icon: ion-headphone
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
