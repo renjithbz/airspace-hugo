@@ -59,8 +59,8 @@ funfacts:
     its clients to create a mutually beneficial partnership
   funfact_item:
   - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: "99"
+    name: Keywords
+    count: "10000000"
   - icon: ion-ios-glasses-outline
     name: Article Written
     count: "45"
