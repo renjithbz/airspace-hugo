@@ -23,6 +23,7 @@ about:
     driven organisation which deliver value and efficiency while limiting the variability
     seen in a people driven organisations, look no further.​
   image: images/wrapper-img.png
+  funfacts: []
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
