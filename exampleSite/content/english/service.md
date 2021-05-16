@@ -59,9 +59,13 @@ service:
       in 3rd party marketing platforms. We can recommend and manage the ideal platform
       for your business. '
   - icon: ion-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Online Directories
+    content: Are you planning to take your online directory to the next level? Apart
+      from the revenue from directory listing, could your directory benefit from offering
+      digital marketing services to your clients? Boonze can enable you to sell Google
+      ads, social ads services to your clients and generate additional revenue. One
+      of our Account Strategists will coordinate a business analysis and develop a
+      customised, profit-enhancing SEM program to fit your specific requirements.
   - icon: ion-bug
     name: Start Up
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
