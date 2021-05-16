@@ -69,7 +69,7 @@ funfacts:
     count: "100000"
   - icon: ion-ios-timer-outline
     name: Combined Projects
-    count: "200"
+    count: "250"
   testimonial_slider:
   - name: Patel
     image: images/clients/avater-1.jpg
