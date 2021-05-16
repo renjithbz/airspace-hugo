@@ -12,16 +12,16 @@ banner:
     link: project
 about:
   enable: true
-  title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  title: Expand Your Digital Marketing Team With Boonze
+  description: Are you looking for digital marketing experts who can work as an extension
+    of your in-house digital marketing team? Boonze manages and optimises search,
+    social, display, video and marketplace advertising campaigns for your business.
+    Our deep understanding of various advertising platforms helps businesses to acquire
+    and retain customers with your marketing campaigns.
+  content: Boonze offers a unique combination of technology, consulting, research,
+    analytics and custom reports to our clients. If you are looking for a process
+    driven organisation which deliver value and efficiency while limiting the variability
+    seen in a people driven organisations, look no further.​
   image: images/wrapper-img.png
 portfolio:
   enable: true
