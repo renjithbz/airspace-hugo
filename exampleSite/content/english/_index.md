@@ -54,10 +54,9 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: Who We Serve
+  description: We believe in true partnership. <br/>Boonze aligns its interest with
+    its clients to create a mutually beneficial partnership
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
