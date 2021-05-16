@@ -26,15 +26,11 @@ about:
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: How Boonze Can Help Your Business?
+  content: |-
+    Boonze is a leading provider of digital marketing services and technologies to clients who demand accountability, efficiency and predictability from their marketing campaigns.
+
+    When you select Boonze to manage your Digital Marketing campaigns, your company will benefit from a highly qualified analytical team that offers a comprehensive digital marketing promotion strategy producing highly qualified leads, reducing new customer acquisition costs, and ensuring the highest possible return on investment (ROI).
   button:
     enable: true
     label: View Works
