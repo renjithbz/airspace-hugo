@@ -50,9 +50,14 @@ service:
       focus on providing the best possible campaign optimization and better ROI for
       your clients.
   - icon: ion-compass
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Publishers
+    content: 'We are working with leading publication companies. Boonze is enabling
+      their sales team members to sell digital marketing packages to their clients
+      apart from print ads. Boonze is providing end-to-end services to the publishers
+      - from sales training, designing digital marketing packages, campaign strategy,
+      campaign launch and campaign optimization. Take advantage of Boonze expertise
+      in 3rd party marketing platforms. We can recommend and manage the ideal platform
+      for your business. '
   - icon: ion-image
     name: App Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
