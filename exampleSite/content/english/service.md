@@ -75,22 +75,6 @@ service:
       campaigns across diverse industries. No matter the size of your ad budget –
       from $300 to thousands of dollars a month. All advertisers, small or big, get
       the same great attention from our team.
-  - icon: ion-headphone
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-leaf
-    name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-earth
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
 cta:
   enable: true
 
