@@ -62,8 +62,8 @@ funfacts:
     name: Keywords
     count: "10000000"
   - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+    name: Text Ads Written
+    count: "1000000"
   - icon: ion-ios-compose-outline
     name: Projects Completed
     count: "125"
