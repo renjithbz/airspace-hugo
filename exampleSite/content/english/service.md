@@ -49,7 +49,7 @@ service:
       Agencies can focus on sales and scale it's business. Meanwhile, Boonze will
       focus on providing the best possible campaign optimization and better ROI for
       your clients.
-  - icon: ion-compass
+  - icon: ion-earth
     name: Publishers
     content: 'We are working with leading publication companies. Boonze is enabling
       their sales team members to sell digital marketing packages to their clients
