@@ -42,7 +42,8 @@ cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
   title: 'We Serve Agencies, Publishers and SMBs '
-  content: Founded in 2005, one of the 1st digital marketing agencies in India
+  content: Founded in 2005, one of the 1st digital marketing agencies in India. Boonze
+    Combines Marketing Expertise and Business Intelligence For Better Marketing ROI.
   button:
     enable: true
     label: Tell Us Your Story
