@@ -65,8 +65,8 @@ funfacts:
     name: Text Ads Written
     count: "1000000"
   - icon: ion-ios-compose-outline
-    name: Projects Completed
-    count: "125"
+    name: Categories Created
+    count: "100000"
   - icon: ion-ios-timer-outline
     name: Combined Projects
     count: "200"
