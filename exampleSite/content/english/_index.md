@@ -38,7 +38,10 @@ portfolio:
     link: project
 service:
   enable: true
-  service_item: []
+  service_item:
+  - icon: ''
+    name: ''
+    content: ''
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
@@ -69,12 +72,13 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
-  - name: Raymond Roy
+  - name: ''
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: CEO-Online YellowPage Company
+    content: 'Thank you for the tremendous work you’ve been doing preparing for the
+      relaunch of our affiliate program.  We are extremely excited and the effort
+      and dedication from all of you has been exemplary.  The landing pages and image
+      ads are exceptional!  Let’s make this baby purr and blow it out of the water.  '
   - name: Randi Renin
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
