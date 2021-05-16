@@ -41,10 +41,8 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: 'We Serve Agencies, Publishers and SMBs '
+  content: Founded in 2005, one of the 1st digital marketing agencies in India
   button:
     enable: true
     label: Tell Us Your Story
