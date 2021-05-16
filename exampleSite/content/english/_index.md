@@ -12,7 +12,7 @@ banner:
     link: project
 about:
   enable: true
-  title: Expand Your Digital Marketing Team With Boonze
+  title: Expand Your Digital Marketing Team <br/>With Boonze
   description: Are you looking for digital marketing experts who can work as an extension
     of your in-house digital marketing team? Boonze manages and optimises search,
     social, display, video and marketplace advertising campaigns for your business.
@@ -38,6 +38,7 @@ portfolio:
     link: project
 service:
   enable: true
+  service_item: []
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
