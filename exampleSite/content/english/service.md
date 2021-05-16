@@ -41,7 +41,7 @@ service:
   description: We believe in true partnership. Boonze aligns its interest with its
     clients to create a mutually beneficial partnership.
   service_item:
-  - icon: ion-coffee
+  - icon: ion-planet
     name: Marketing Agencies
     content: Boonze has experience in managing a large volume of marketing campaigns
       for digital marketing agencies. Our experienced team members are making sure
