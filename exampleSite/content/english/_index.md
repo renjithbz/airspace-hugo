@@ -79,12 +79,14 @@ funfacts:
       relaunch of our affiliate program.  We are extremely excited and the effort
       and dedication from all of you has been exemplary.  The landing pages and image
       ads are exceptional!  Let’s make this baby purr and blow it out of the water.  '
-  - name: Randi Renin
+  - name: Amie Slott
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: Accounts Manager-Leading US Publisher
+    content: First I would like to thank you and your team for all of the support
+      you have provided our team. Your work on disapproval, negative conflicts and
+      SQR reports has been incredibly helpful. Since we have had such great success
+      with having your team manage disapproval, we wanted to expand upon that process
+      and put a few more guidelines in place for managing them.
   - name: Rose Rio
     image: images/clients/avater-3.jpg
     designation: CEO-Themefisher
