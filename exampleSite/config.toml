@@ -148,6 +148,10 @@ unsafe = true
 endLevel = 6
 ordered = false
 startLevel = 2
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+weight = 7
 [outputs]
 home = ["HTML"]
 [params]
